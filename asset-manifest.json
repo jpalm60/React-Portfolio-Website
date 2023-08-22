@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.0b0d22b4.css",
+    "main.js": "/react-portfolio-website/static/js/main.caaacfcd.js",
+    "static/media/IMG_3142.jpg": "/react-portfolio-website/static/media/IMG_3142.d9948549cf48180a1464.jpg",
+    "static/media/POZV6099.JPG": "/react-portfolio-website/static/media/POZV6099.1cf5f25d954fbaf5e627.JPG",
+    "static/media/AmazonPrime.png": "/react-portfolio-website/static/media/AmazonPrime.a302ef74326f2554beba.png",
+    "static/media/portfolio5.png": "/react-portfolio-website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/AggieFinal2.jpg": "/react-portfolio-website/static/media/AggieFinal2.3eb99246fc829f3f7a8b.jpg",
+    "static/media/Joshua_Palmer_Resume.pdf": "/react-portfolio-website/static/media/Joshua_Palmer_Resume.62e02444f64743040c6c.pdf",
+    "static/media/portfolio2.jpg": "/react-portfolio-website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/react-portfolio-website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/react-portfolio-website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.0b0d22b4.css.map": "/react-portfolio-website/static/css/main.0b0d22b4.css.map",
+    "main.caaacfcd.js.map": "/react-portfolio-website/static/js/main.caaacfcd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b0d22b4.css",
+    "static/js/main.caaacfcd.js"
+  ]
+}
