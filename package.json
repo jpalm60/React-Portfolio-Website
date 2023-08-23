@@ -1,8 +1,8 @@
 {
-  "homepage": "https://jpalm60.github.io/react-portfolio-website/index.html",
+  "homepage": "https://jpalm60.github.io/React-Portfolio-Website/",
   "name": "react-portfolio-website-1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
