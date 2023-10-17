@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jpalm60/react-movie-app/static/css/main.38ccb02b.css",
+    "main.js": "/jpalm60/react-movie-app/static/js/main.4df763e8.js",
+    "static/js/787.7c42db31.chunk.js": "/jpalm60/react-movie-app/static/js/787.7c42db31.chunk.js",
+    "index.html": "/jpalm60/react-movie-app/index.html",
+    "main.38ccb02b.css.map": "/jpalm60/react-movie-app/static/css/main.38ccb02b.css.map",
+    "main.4df763e8.js.map": "/jpalm60/react-movie-app/static/js/main.4df763e8.js.map",
+    "787.7c42db31.chunk.js.map": "/jpalm60/react-movie-app/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ccb02b.css",
+    "static/js/main.4df763e8.js"
+  ]
+}
